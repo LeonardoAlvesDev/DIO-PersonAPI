@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8674c1f-86e5-44c9-a329-aa063fa3ae37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/personapi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/personapi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personapi/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/personapi/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personapi/src/main/java/one/digitalinnovation/personapi/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/personapi/src/main/java/one/digitalinnovation/personapi/service/PersonService.java" afterDir="false" />
     </list>
